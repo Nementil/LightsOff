@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: "arri\xE8re plan"
+    uniqueID: 1476028443
+    locked: 0
+  - name: "plan m\xE9dian"
+    uniqueID: 3964692251
+    locked: 0
+  - name: avant plan
+    uniqueID: 2712652779
+    locked: 0
